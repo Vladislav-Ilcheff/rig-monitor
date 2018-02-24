@@ -1,3 +1,4 @@
+# Fixes for GPU > 10 fans and temps
 BEGIN {
 	FS = "(: )|(, )"
 	ORS = "\n"
